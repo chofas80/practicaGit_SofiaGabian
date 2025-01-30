@@ -1,5 +1,5 @@
 
-#Git nuestro
+#Git nuestro de todo desarrollador
 
 *Git* nuestro que estas en los repos
 
