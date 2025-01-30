@@ -69,5 +69,5 @@
 
 - ¿Qué comando o comandos usaste en el punto 33?
 
-    git log
-    git checkout c8739ccea83e5cc38550658a99da9910c5abb7fe
+    git reflog
+    git checkout c8739cc
