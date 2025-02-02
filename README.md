@@ -55,19 +55,27 @@
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
     git reflog
+  
     git checkout c8739cc    (es el id del commit perdido por la rama borrada)
+  
     git branch title
+  
     git checkout title
+  
     cat git-nuestro         (confirmamos que tenemos nuestros cambios en el fichero)
+  
     git checkout main
+  
     git merge --no-ff title
 
 - ¿Qué comando o comandos usaste en el paso 32?
 
     git reflog
+  
     git checkout 9e85f19    (es el id del commit inicial)
 
 - ¿Qué comando o comandos usaste en el punto 33?
 
     git reflog
+  
     git checkout c8739cc
